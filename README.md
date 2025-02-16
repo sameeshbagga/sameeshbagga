@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Sameesh Bagga</h1>
 <h3 align="center">A passionate AI Engineer</h3>
-👩🏻‍💻 Passionate developer experienced in AI/ML<br/>
+👩🏻‍💻 Passionate software developer experienced in AI/ML<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
-🔬  Developing a cutting-edge End-to-End Speech Translation system to facilitate seamless communication across languages.
+
 
 
 <h3 align="left">Connect with me:</h3>
